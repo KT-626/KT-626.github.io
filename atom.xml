@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-09T11:42:35.088Z</updated>
+  <updated>2023-02-09T13:39:26.756Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,17 +21,17 @@
     <link href="http://example.com/2023/02/08/CSGO%E6%8C%87%E4%BB%A4/"/>
     <id>http://example.com/2023/02/08/CSGO%E6%8C%87%E4%BB%A4/</id>
     <published>2023-02-08T12:23:30.000Z</published>
-    <updated>2023-02-09T11:42:35.088Z</updated>
+    <updated>2023-02-09T13:39:26.756Z</updated>
     
-    <content type="html"><![CDATA[<hgroup><h1> 一、清除血迹指令😶‍🌫️</h1><p>1、F键清除血迹指令：bind f "+lookatweapon; r_cleardecals"。</p><p>2、SHIFT清除血迹指令：bind shift "+speed;r_cleardecals"。</p><p>3、CTRL清除血迹指令：bind "trl" "+duck;r_cleardecals"。</p><p>4、开枪后清除血迹指令：bind MOUSE1 "+attack;r_cleardecals"。</p></hgroup><a href="https://www.bilibili.com/" traget="_blank">666</a><hgroup><h1>二、跳投指令：</h1><p>1、alias +jumpthrow"+jump。</p><p>2、－attack;-attack2"。</p><p>3、alias -jumpthrow -jump。</p><p>4、bind t +jumpthrow，（T键可以改成任何想使用的键）。</p></hgroup>]]></content>
+    <content type="html"><![CDATA[<p><hgroup></p><p><h1> 一、清除血迹指令😶‍🌫️</h1></p><p>1、F键清除血迹指令：bind f "+lookatweapon; r_cleardecals"。</p><p>2、SHIFT清除血迹指令：bind shift "+speed;r_cleardecals"。</p><p>3、CTRL清除血迹指令：bind "trl" "+duck;r_cleardecals"。</p><p>4、开枪后清除血迹指令：bind MOUSE1 "+attack;r_cleardecals"。</p></hgroup><a href="https://www.bilibili.com/" traget="_blank">666</a><hgroup><h1>二、跳投指令：</h1><p>1、alias +jumpthrow"+jump。</p><p>2、－attack;-attack2"。</p><p>3、alias -jumpthrow -jump。</p><p>4、bind t +jumpthrow，（T键可以改成任何想使用的键）。</p></hgroup><h1>三、一键切换左右手持枪</h1><p>bind“键位““toggle cl_righthand 1 0”</p><h1>四、一键显示/隐藏队友装备</h1><p>bind"键位"”toggle cl_teamid_overhead_made 1 2“</p><h1>五、游戏帧数查看</h1><p>1.打开：net_graph 1</p><p>2.变小：net_graphproportionalfont 0.5</p><p>3.居中：net_graphpos 02</p><p>4.靠左：net_graphpos 00</p><p>5.靠右：net_graphpos 01</p><h1>六、一键丢C4</h1><p>bind"键位"”use weapon_c4;drop“</p><h1>七、一键切闪</h1><p>bind"键位"”use weapon_knife;use weapon_flsahbang“</p><h1>八、关闭枪口抖动 1开启 0关闭</h1><p>viewmodel_recoil 0</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;hgroup&gt;
-&lt;h1&gt; 一、清除血迹指令😶‍🌫️&lt;/h1&gt;
+    <summary type="html">&lt;p&gt;&lt;hgroup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h1&gt; 一、清除血迹指令😶‍🌫️&lt;/h1&gt;&lt;/p&gt;
 &lt;p&gt;1、F键清除血迹指令：bind f &quot;+lookatweapon; r_cleardecals&quot;。&lt;/p&gt;
-&lt;p&gt;2、SHIFT清除血迹指令：bind shift &quot;+speed;r_cleardecals</summary>
+&lt;p&gt;2、SHIFT清除血迹指令：bind shift &quot;+speed</summary>
       
     
     
