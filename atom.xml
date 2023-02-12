@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-10T10:04:26.777Z</updated>
+  <updated>2023-02-12T12:30:37.936Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>GTA-V相关网站</title>
+    <link href="http://example.com/2023/02/12/GTA-V/"/>
+    <id>http://example.com/2023/02/12/GTA-V/</id>
+    <published>2023-02-12T12:26:54.189Z</published>
+    <updated>2023-02-12T12:30:37.936Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="小助手"><a href="#小助手" class="headerlink" title="小助手"></a>小助手</h1><h2><a href="https://crazyzhang.cn/" traget="_blank">点我跳转</a></h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;小助手&quot;&gt;&lt;a href=&quot;#小助手&quot; class=&quot;headerlink&quot; title=&quot;小助手&quot;&gt;&lt;/a&gt;小助手&lt;/h1&gt;&lt;h2&gt;&lt;a href=&quot;https://crazyzhang.cn/&quot; traget=&quot;_blank&quot;&gt;点我跳转&lt;/a&gt;&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    <category term="GTA" scheme="http://example.com/categories/GTA/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>游戏平台官网</title>
     <link href="http://example.com/2023/02/10/%E6%B8%B8%E6%88%8F%E5%AE%98%E7%BD%91/"/>
     <id>http://example.com/2023/02/10/%E6%B8%B8%E6%88%8F%E5%AE%98%E7%BD%91/</id>
     <published>2023-02-10T07:38:30.000Z</published>
-    <updated>2023-02-10T10:04:26.777Z</updated>
+    <updated>2023-02-10T10:17:31.656Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="游戏平台官网"><a href="#游戏平台官网" class="headerlink" title="游戏平台官网"></a>游戏平台官网</h1><h2 id=""><a href="#" class="headerlink" title=""></a><a href="https://store.epicgames.com/zh-CN/"><img src="https://img1.imgtp.com/2023/02/10/OnQset7l.png weight:100" alt=" "></a></h2><h2 id="-1"><a href="#-1" class="headerlink" title=""></a><a href="https://store.epicgames.com/zh-CN/"><img src="https://img1.imgtp.com/2023/02/10/NF6YCznw.png" alt=" "></a></h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="游戏平台官网"><a href="#游戏平台官网" class="headerlink" title="游戏平台官网"></a>游戏平台官网</h1><h2 id=""><a href="#" class="headerlink" title=""></a><a href="https://store.epicgames.com/zh-CN/"><img src="https://img1.imgtp.com/2023/02/10/OnQset7l.png" alt="box"></a></h2><h2 id="-1"><a href="#-1" class="headerlink" title=" "></a><a href="https://store.epicgames.com/zh-CN/"><img src="https://img1.imgtp.com/2023/02/10/NF6YCznw.png" alt="box"> </a></h2><h2 id="-2"><a href="#-2" class="headerlink" title=" "></a><a href="https://store.epicgames.com/zh-CN/"><img src="https://img1.imgtp.com/2023/02/10/NF6YCznw.png" alt=""> </a></h2><style>    img[alt="box"]{        width:100px        right:30px;        }</style>]]></content>
     
     
       
